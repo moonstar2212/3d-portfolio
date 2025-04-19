@@ -128,7 +128,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Sep 2023 - Dec 2023",
     points: [
-      "Built KlikPriangan, a news portal with Laravel, improving page load speed by 35% through query optimization.",
+      "Built KlikPriangan, a news portal with CodeIgniter, improving page load speed by 35% through query optimization.",
       "Developed a web-based attendance system using PHP reducing manual tracking by 90%.",
       "Configured MikroTik routers (leveraging MTCNA certification) to stabilize office network uptime.",
     ],
